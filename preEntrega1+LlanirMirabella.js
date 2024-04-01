@@ -39,6 +39,7 @@ for (let i = 1; i < 4; i++) {
     alert(
       "La Posición ingresada es inválida, ingrese una posición entre 1 y 20"
     );
+    i--;
   }
 }
 
